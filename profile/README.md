@@ -25,4 +25,4 @@ We are a group of people who are keen on build Bible study software and tools, a
 ### What we have built
 
 - [Obsidain Bible Reference](https://github.com/tim-hub/obsidian-bible-reference) Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions. 
-  - [Bible Reference Toolkit](https://github.com/Antioch-Tech/bible-reference-toolkit) Normalize Bible references, convert them to machine readable formats, query and manipulate them 
+  - [Bible Reference Toolkit](https://github.com/Antioch-Tech/bible-reference-toolkit) This is a Node package Normalize Bible references, convert them to machine readable formats, query and manipulate them. *This is a depedency of Obsidain Bible Reference*
