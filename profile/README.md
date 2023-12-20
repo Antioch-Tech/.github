@@ -30,4 +30,4 @@ We are a group of people who are keen on build Bible study software and tools, a
 
 ### What are we working on or plan to work on?
 
-We will focus on Bible related projects at current stage, please visit [our website](https://antioch.tech/#roadmap) to get more information.
+We will focus on Bible related projects at current stage, please visit [our website](https://antioch.tech/#roadmap) to get more information or [follow us](https://antioch.tech/contact/) to get the latest information.
